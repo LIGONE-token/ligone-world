@@ -1,44 +1,37 @@
 # LIGONE World
 
-**LIGONE World** ist eine dokumentarische Übersichtsseite.
+LIGONE World ist eine dokumentarische Übersichtsseite.
 
-Sie listet **alle real existierenden, öffentlich erreichbaren Webseiten**
-des LIGONE-Ökosystems vollständig auf.
+Sie listet alle real existierenden, öffentlich erreichbaren Webseiten
+des LIGONE-Projekts vollständig auf.
 
-## Prinzip
+## Was ist LIGONE?
 
-- keine Auswahl
-- keine Bewertung
-- keine Gewichtung
-- keine Interpretation
+LIGONE ist ein öffentlich aufgebautes Projekt zur strukturierten Aufklärung,
+Dokumentation und praktischen Erprobung von Kryptowährungen und
+dezentralen Systemen.
 
-Was existiert, wird verlinkt.
-Was nicht existiert, wird nicht erwähnt.
+Es wurde geschaffen, um langfristiges Halten, nachvollziehbare Strukturen
+und eigenverantwortliche Entscheidungen zu ermöglichen – unabhängig von
+Banken, Verträgen oder zentralen Instanzen.
+
+## Zweck von LIGONE World
+
+LIGONE World dient ausschließlich als Landkarte.
+Sie zeigt, welche Webseiten real existieren und öffentlich erreichbar sind.
+
+Es erfolgt keine Auswahl, Bewertung oder Empfehlung.
 
 ## Verlinkungsregeln
 
 **Enthalten**
-- ausschließlich echte Webseiten (`.html`)
-- inhaltliche Seiten (manuell oder automatisch erstellt)
+- ausschließlich echte, inhaltliche Webseiten
 
 **Bewusst ausgeschlossen**
-- Kategorien / Übersichten
-- Systemdateien (`txt`, `xml`, `404`, Verifikation)
+- Kategorien und Übersichten
+- System- und Verifikationsdateien
 - Assets (Bilder, CSS, JS)
-- Download- oder Upsell-Seiten
-- Danke-Seiten
-
-## Zweck
-
-- vollständige Offenlegung
-- eigenständige Überprüfbarkeit
-- maximale Transparenz durch Vollständigkeit
-
-## Hinweis
-
-Diese Seite ist keine Werbung,
-keine Empfehlung
-und keine Aufforderung zu Handlungen.
+- Download-, Upsell- und Danke-Seiten
 
 ---
 
