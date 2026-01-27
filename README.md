@@ -1,95 +1,45 @@
 # LIGONE World
 
-**LIGONE World** ist die zentrale Übersichts- und Referenzseite des gesamten LIGONE-Ökosystems.
+**LIGONE World** ist eine dokumentarische Übersichtsseite.
 
-Dieses Repository dient **ausschließlich der Transparenz und Orientierung**.  
-Es bündelt **alle offiziellen Domains, Token, Plattformen, GitHub-Repositories und Unterseiten** von LIGONE an einem einzigen Ort.
+Sie listet **alle real existierenden, öffentlich erreichbaren Webseiten**
+des LIGONE-Ökosystems vollständig auf.
 
-Keine Auswahl.  
-Keine Gewichtung.  
-Keine Blackbox.
+## Prinzip
 
----
+- keine Auswahl
+- keine Bewertung
+- keine Gewichtung
+- keine Interpretation
 
-## 🌍 Zweck dieses Repositories
+Was existiert, wird verlinkt.
+Was nicht existiert, wird nicht erwähnt.
 
-Viele Projekte verteilen Informationen über zahlreiche Webseiten und Repositories.  
-LIGONE World verfolgt bewusst einen anderen Ansatz:
+## Verlinkungsregeln
 
-> **Alles, was öffentlich existiert, ist auch öffentlich auffindbar.**
+**Enthalten**
+- ausschließlich echte Webseiten (`.html`)
+- inhaltliche Seiten (manuell oder automatisch erstellt)
 
-Dieses Repository stellt sicher, dass:
-- keine Inhalte versteckt sind
-- alle Module des Ökosystems überprüfbar bleiben
-- Skepsis ausdrücklich erlaubt ist
+**Bewusst ausgeschlossen**
+- Kategorien / Übersichten
+- Systemdateien (`txt`, `xml`, `404`, Verifikation)
+- Assets (Bilder, CSS, JS)
+- Download- oder Upsell-Seiten
+- Danke-Seiten
 
----
+## Zweck
 
-## 🧭 Was du hier findest
+- vollständige Offenlegung
+- eigenständige Überprüfbarkeit
+- maximale Transparenz durch Vollständigkeit
 
-Die zugehörige Website (GitHub Pages) enthält:
+## Hinweis
 
-- die offizielle Hauptdomain **ligone.ch**
-- alle LIGONE Token (LIG1, LIGC, LIGX)
-- alle Plattformen & Systeme
-- **MarketShield** vollständig
-- **alle GitHub-Repositories**
-- **alle öffentlich vorhandenen Unterseiten und Dateien**
-
-Die Seite ist bewusst **dokumentarisch**, nicht werblich.
-
----
-
-## 🔗 Zentrale Übersicht
-
-👉 **Live-Seite:**  
-https://ligone-world.github.io/
-
-(enthält die vollständige Ökosystem-Landkarte)
+Diese Seite ist keine Werbung,
+keine Empfehlung
+und keine Aufforderung zu Handlungen.
 
 ---
 
-## 🧠 Wichtige Einordnung
-
-- LIGONE World ist **kein Produkt**
-- keine Investitionsempfehlung
-- kein Vertrag
-- keine Garantie
-
-Einige verlinkte Inhalte sind:
-- technisch
-- experimentell
-- nicht für Endnutzer gedacht
-
-Alle sind dennoch bewusst öffentlich zugänglich.
-
----
-
-## 🔒 Grundprinzip
-
-> Du musst nichts tun.  
-> Du kannst alles prüfen.  
-> Zeit und Skepsis sind Teil des Systems.
-
----
-
-## 📬 Kontakt
-
-project@ligone.ch
-
----
-
-## 🛠️ Technisches
-
-- Statische HTML-Seite (`index.html`)
-- Bereitgestellt über GitHub Pages
-- Keine externen Abhängigkeiten
-- Keine Tracker
-- Keine versteckten Skripte
-
----
-
-## 📌 Lizenz / Hinweis
-
-Dieses Repository dient der Dokumentation und Übersicht.  
-Die Inhalte der verlinkten Repositories unterliegen jeweils ihren eigenen Lizenzen und Bedingungen.
+Kontakt: project@ligone.ch
